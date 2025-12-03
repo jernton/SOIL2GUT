@@ -9,5 +9,7 @@ This repository contains updated code and scripts related to the manuscript curr
 # Contents
 
 src/: Source code for data processing and analysis.
+
 notebooks/: Notebooks/markdown files for exploratory analysis and visualization.
+
 data/: Placeholder for input data (not included; see Zenodo link).
